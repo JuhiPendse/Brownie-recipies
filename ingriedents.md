@@ -1,0 +1,1 @@
+choclate,walnuts,eggs, butter,sugar,vanilia flavouring, flour,coco powder,salt.
